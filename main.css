@@ -1,0 +1,33 @@
+/* Heading 1 styles */
+h1 {
+    color: blue;
+    text-align: left;
+    font-weight: bold;
+    font-size: 3rem;
+    font-family: Cambria, Tahoma, serif; /* Fix font list syntax */
+}
+
+/* Heading 2 styles */
+h2 {
+    font-size: 2rem;
+    font-family: "Book Antiqua", "Goudy Old Style", serif; /* Add quotes & fallback */
+}
+
+/* Body styles */
+body {
+    color: blue;
+    background-color: black;
+    text-align: left;
+    font-size: 1rem;
+    font-family: Georgia, "Big Caslon", serif; /* Fix font-family syntax */
+}
+
+/* Links */
+a {
+    text-decoration: none;
+}
+
+/* Table Head styling */
+thead {
+    font-size: 2em; /* fixed incorrect syntax: "font: size 3em" */
+}
